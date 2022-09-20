@@ -1,0 +1,60 @@
+body{
+background-color: bisque;
+
+}
+form{
+
+    background-color: rgba(201, 221, 233, 0.705);
+    border-style: double;
+    padding: 5px;
+    
+}
+.nav{
+
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    height: 10vh;
+    width: 600vh;
+    display: table-cell;
+    vertical-align: bottom;
+   
+    
+}
+ul{
+font-size: 12px;
+list-style: none;
+float: right;
+margin: 20px;
+}
+header{
+    font-size: 40px;
+    
+}
+label{
+
+    text-align: right;
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+}
+input{
+text-align: left;
+}
+div{
+
+    margin-bottom: 10px;
+}
+.submit{
+border-top: 1px solid black;
+padding-top: 10px;
+padding-left: 10px;
+}
+.button{
+    background-color: #188d4593;
+
+}
+
+.pasto {
+    background-color: rgba(255, 253, 253, 0.486);
+
+}
